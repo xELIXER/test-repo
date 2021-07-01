@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 public class TestService {
 
     public String getResponse() {
-        return "hello from the other side, password: " + "pass11234124";
+        return "hello from the other side";
     }
 
     public String getResponse2() {
