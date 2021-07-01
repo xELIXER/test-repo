@@ -8,4 +8,8 @@ public class TestService {
     public String getResponse() {
         return "hello from the other side, password: " + "pass11234124";
     }
+
+    public String getResponse2() {
+        return "hello from the other side pt2, password: " + "pass11234124";
+    }
 }
