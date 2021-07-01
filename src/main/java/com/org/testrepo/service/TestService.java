@@ -10,6 +10,6 @@ public class TestService {
     }
 
     public String getResponse2() {
-        return "hello from the other side pt2, password: " + "pass11234124";
+        return "hello from the other side pt2";
     }
 }
